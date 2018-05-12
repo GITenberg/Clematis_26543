@@ -3,12 +3,12 @@ _version: 0.1.0
 contributor:
   illustrators:
   - agent_name: Levis, Willis
-    birthdate: &id001 1886
+    birthdate: 1886
     gutenberg_agent_id: '32085'
     url: http://www.gutenberg.org/2009/agents/32085
   - agent_name: Cram, Allan G. (Allan Gilbert)
     alias: Cram, Allan Gilbert
-    birthdate: *id001
+    birthdate: 1886
     deathdate: 1947
     gutenberg_agent_id: '7011'
     url: http://www.gutenberg.org/2009/agents/7011
@@ -28,6 +28,8 @@ creator:
     gutenberg_agent_id: '32082'
     url: http://www.gutenberg.org/2009/agents/32082
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26543#Clematis
 gutenberg_issued: '2008-09-06'
 gutenberg_type: Text
 identifiers:
